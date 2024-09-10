@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="login_bg">#011013</color>
+    <color name="textColorPrimary">#FFFFFFFF</color>
+    <color name="textColorSecondary">#CCFFFFFF</color>
+    <style name="Base.Theme.SheGuard" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    <style name="Theme.SheGuard" parent="Base.Theme.SheGuard"/>
+</resources>

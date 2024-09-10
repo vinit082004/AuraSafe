@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.sheguard.app-mergeDebugResources-54:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\birdc\\.gradle\\caches\\transforms-4\\a328534cf9fce1fc990fb65358594d3c\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

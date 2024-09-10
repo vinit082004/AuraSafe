@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">440473248614</string>
+    <string name="google_api_key" translatable="false">AIzaSyBuQjTZd6vUOVwpLL7jO-A8lHyK62kV9A8</string>
+    <string name="google_app_id" translatable="false">1:440473248614:android:17e249e3906775aaed5ea7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBuQjTZd6vUOVwpLL7jO-A8lHyK62kV9A8</string>
+    <string name="google_storage_bucket" translatable="false">SheGuard-b0b33.appspot.com</string>
+    <string name="project_id" translatable="false">SheGuard-b0b33</string>
+</resources>
